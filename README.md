@@ -7,7 +7,7 @@
 - 🔭 Atualmente trabalho como professor de Robótica e Programação
 - 🌱 Estou estudando Spring Boot
 - 🤔 Focando em conseguir um emprego na área de desenvolvimento Web
-- 📫 Podem ver também meu Linkedin: [Linkedin](linkedin.com/in/marcelo-h-ribeiro)
+- 📫 Podem ver também meu Linkedin: [Linkedin](https://linkedin.com/in/marcelo-h-ribeiro)
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Sei fazer jogos em Gamemaker
 
