@@ -4,9 +4,8 @@
 
 ### Então um pouco mais sobre mim:
 
-- 🔭 Atualmente trabalho como professor de Robótica e Programação
-- 🌱 Estou estudando Spring Boot
-- 🤔 Focando em conseguir um emprego na área de desenvolvimento Web
+- 🔭 Atualmente trabalho como desenvolvedor FullStack
+- 🌱 Foco em Spring Boot
 - 📫 Podem ver também meu Linkedin: [Linkedin](https://linkedin.com/in/marcelo-h-ribeiro)
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Sei fazer jogos em Gamemaker
